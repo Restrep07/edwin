@@ -1,0 +1,325 @@
+/* DISEÑO HEADER */
+header{
+    background: #FFFFFF;
+    height: 280px;
+}
+
+.boff1{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 0 1000px;
+}
+
+.a1{
+    margin: 0 5px 0 0;
+}
+
+.boff1, a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.imgIcons{
+    margin: 0 0 0 0;
+    width: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.boff2{
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 0 100px;
+}
+
+.boff2, a{
+    font-size: 15px;
+    margin: 0 30px 0 0;
+}
+
+.holamor{
+    margin: 0 0 0 150px;
+}
+
+.boff3{
+    display: flex;
+    flex-direction: row;
+    margin: 30px 0 0 50px;
+}
+
+.imgIcons2{
+    margin: 0 0 0 0;
+    width: 30px;
+    height: 30px;
+}
+
+.input{
+    margin: 0 350px 0 0;
+}
+
+.textoSection3{
+    margin: 0 350px 0 0;
+}
+
+.buttonHeader{
+   margin: 30px 0 0 620px;
+   background: #FFFFFF;
+   padding: 10px 30px 10px 30px;
+   
+}
+
+.aButton{
+    color: #877300;
+    margin: 10px 30px 10px 30px;
+}
+
+
+main{
+    background: #FFFFFF;
+}
+
+/* DISEÑO DOS PRIMERAS IMAGENES */
+.sectionmain1{
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 0 350px;
+}
+
+.imagenes1{
+    width: 400px;
+    margin: 0 15px 0 0;
+}
+
+.sectionmainBoton{
+    margin: 30px 0 0 500px;
+}
+
+.purchase{
+    border: 1px solid #000000;
+    background: #000000;
+    color: #FFFFFF;
+    padding: 5px 15px 5px 15px;
+    margin: 0 300px 0 0;
+}
+
+.purchase:hover{
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    color: #000000;
+    padding: 5px 15px 5px 15px;
+}
+
+.purchase2{
+    border: 1px solid #000000;
+    background: #000000;
+    color: #FFFFFF;
+    padding: 5px 15px 5px 15px;
+}
+
+.purchase2:hover{
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    color: #000000;
+    padding: 5px 15px 5px 15px;
+}
+
+/* DISEÑO VIDEO */
+.sectionVideo{
+    margin: 90px 0 0 460px;
+}
+
+video{
+    width: 600px;
+}
+
+/* DISEÑO IMAGENES 3 Y 4 */
+.sectionmain2{
+    display: flex;
+    flex-direction: row;
+    margin: 90px 0 0 350px;
+}
+
+.imagenes1{
+    width: 400px;
+    margin: 0 15px 0 0;
+}
+
+.sectionmainBoton{
+    margin: 30px 0 0 500px;
+}
+
+.purchase{
+    border: 1px solid #000000;
+    background: #000000;
+    color: #FFFFFF;
+    padding: 5px 15px 5px 15px;
+    margin: 0 300px 0 0;
+}
+
+.purchase:hover{
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    color: #000000;
+    padding: 5px 15px 5px 15px;
+}
+
+.purchase2{
+    border: 1px solid #000000;
+    background: #000000;
+    color: #FFFFFF;
+    padding: 5px 15px 5px 15px;
+}
+
+.purchase2:hover{
+    border: 1px solid #000000;
+    background: #FFFFFF;
+    color: #000000;
+    padding: 5px 15px 5px 15px;
+}
+
+/* DISEÑO CUADRO IMAGENES */
+.follow{
+    display: flex;
+    flex-direction: row;
+    margin: 80px 0 0 400px;
+}
+
+.logito{
+    width: 60px;
+    height: 70px;
+    margin: 0 20px 0 0;
+}
+
+h3{
+    margin: 0 400px 0 0;
+}
+
+.followimg{
+    width: 15px;
+}
+
+.cajaFollow{
+    border: 2px solid #000000;
+    font-size: 20px;
+    color: #000000;
+    padding: 0 10px 0 10px;
+}
+
+.followers{
+    margin: 0 0 0 480px;
+}
+
+.galeriaImg{
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 0 375px;
+}
+
+.imggale{
+    width: 250px;
+    margin: 0 10px 0 0;
+
+}
+
+.galeriaImg2{
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 0 375px;
+}
+
+.sectionBoton1{
+    margin: 30px 0 0 710px;
+}
+
+.setBoton1{
+    border: 1px solid #000000;
+    padding: 5px 20px 5px 20px;
+}
+
+.suscripcion{
+    display: flex;
+    flex-direction: row;
+    margin: 90px 0 0 330px;
+}
+
+.p2{
+    margin: 0 0 0 450px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 0 330px;
+}
+
+.inputF{
+    border: 0;
+    border-bottom: 1px solid #000000;
+    padding: 0 190px 0 0;
+}
+
+.iconoF{
+    width: 30px;
+    margin: 0 0 0 430px;
+}
+
+.etiquetas{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0 0 330px;
+}
+
+.h4Eti{
+    margin: 0 170px 0 0;
+}
+
+.inpust{
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 0 330px;
+}
+
+.inputss{
+    border: 0;
+    background: #d6d6d6;
+    padding: 15px 20px 15px 20px;
+    margin: 0 60px 0 0;
+}
+
+.suscribe{
+    margin: 0 0 0 20px;
+    border: 2px solid #000000;
+    padding: 10px 15px 10px 15px;
+}
+
+.instaIco{
+    width: 30px;
+    margin: 0 0 0 130px;
+}
+
+.texto{
+    margin: 0 0 0 330px;
+    font-size: 10px;
+}
+
+.texto .aa{
+    font-size: 10px;
+}
+
+.linea{
+    border-bottom: 1px solid #000000;
+    padding: 0 50px 0 50px;
+    margin: 30px 0 0 0;
+}
+
+.sectionFinal{
+    display: flex;
+    flex-direction: row;
+    margin: 50px 0 50px 400px;
+}
+
+.pp{
+    margin: 0 70px 0 0;
+}
